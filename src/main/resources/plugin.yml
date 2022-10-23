@@ -1,0 +1,6 @@
+name: WERemoveEntity
+version: '${version}'
+main: marumasa.we_remove_entity.minecraft
+api-version: 1.19
+
+softdepend: [FastAsyncWorldEdit]
